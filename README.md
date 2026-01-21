@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <div align="center">
 <h1 align="center">Hola, soy Daniel 👋</h1>
 </div>
@@ -22,8 +21,10 @@ Licenciado en informática, desarrollador de aplicaciones móviles Android con e
 
 
 ## 🔹 Software y herramientas
-![Java](https://img.shields.io/badge/Java-passing?style=plastic&logo=java&color=D61A1A)  ![Kotlin](https://img.shields.io/badge/Kotlin-passing?style=flat&logo=Kotlin&logoColor=6528D1&color=black) ![Hilt](https://img.shields.io/badge/Hilt-passing?style=plastic&logo=HILT&color=848A2B) ![Android-X](https://img.shields.io/badge/Android%20X-passing?style=plastic&logo=android&color=%236D4C9F
-) ![unit_test](https://img.shields.io/badge/Unit%20Test-passing?style=plastic&logo=testinglibrary&color=8131B5) ![realm](https://img.shields.io/badge/Realm-passing?style=plastic&logo=mariadbfoundation&logoColor=FFFFFF&color=CC1F90) ![xml_layout](https://img.shields.io/badge/XML-passing?style=plastic&logo=xml&logoColor=FFFFFF&color=999999) ![proguard](https://img.shields.io/badge/ProGuard-passing?style=plastic&logo=proguard&color=%23D10A08) ![safe_args](https://img.shields.io/badge/SafeArgs-passing?style=plastic&logo=sagemath&color=%230869D1)
+![Java](https://img.shields.io/badge/Java-passing?style=plastic&logo=java&color=D61A1A)  ![Kotlin](https://img.shields.io/badge/Kotlin-passing?style=flat&logo=Kotlin&logoColor=6528D1&color=black) ![Android-X](https://img.shields.io/badge/Android%20X-passing?style=plastic&logo=android&color=%236D4C9F
+) ![unit_test](https://img.shields.io/badge/Unit%20Test-passing?style=plastic&logo=testinglibrary&color=8131B5) ![realm](https://img.shields.io/badge/Realm-passing?style=plastic&logo=mariadbfoundation&logoColor=FFFFFF&color=CC1F90) ![xml_layout](https://img.shields.io/badge/XML-passing?style=plastic&logo=xml&logoColor=FFFFFF&color=999999) ![proguard](https://img.shields.io/badge/ProGuard-passing?style=plastic&logo=proguard&color=%23D10A08) ![Hilt](https://img.shields.io/badge/Hilt-passing?style=plastic&logo=HILT&color=848A2B) ![safe_args](https://img.shields.io/badge/SafeArgs-passing?style=plastic&logo=sagemath&color=%230869D1) ![navigation_components](https://img.shields.io/badge/NavigationComponents-passing?style=plastic&logo=androidstudio&color=%231976D2) ![AES](https://img.shields.io/badge/AES-passing?style=plastic&logo=letsencrypt&color=%23003A70) ![RSA](https://img.shields.io/badge/RSA-passing?style=plastic&logo=cryptomator&color=%23FC3E04) 
+
+
 
 ![mvvm](https://img.shields.io/badge/MVVM-passing?style=plastic&logo=mvvm&color=FFF712) ![MVC](https://img.shields.io/badge/MVC-passing?style=plastic&logo=mvvm&color=%2327D3F5) ![MVP](https://img.shields.io/badge/MVP-passing?style=plastic&logo=mvvm&color=%239B651A) ![GIT](https://img.shields.io/badge/GIT-passing?style=plastic&logo=git&color=3B3B3B)  ![retrofit](https://img.shields.io/badge/Retrofit-passing?style=plastic&logo=modelcontextprotocol&logoColor=FFFFFF&color=CC871F) ![api_rest](https://img.shields.io/badge/API%20REST-passing?style=plastic&logo=api&color=1A88D6) 
 
