@@ -30,7 +30,7 @@ Licenciado en informática, desarrollador de aplicaciones móviles Android con e
 ![mvvm](https://img.shields.io/badge/MVVM-passing?style=plastic&logo=mvvm&color=FFF712) ![MVC](https://img.shields.io/badge/MVC-passing?style=plastic&logo=mvvm&color=%2327D3F5) ![MVP](https://img.shields.io/badge/MVP-passing?style=plastic&logo=mvvm&color=%239B651A) ![GIT](https://img.shields.io/badge/GIT-passing?style=plastic&logo=git&color=3B3B3B)  ![retrofit](https://img.shields.io/badge/Retrofit-passing?style=plastic&logo=modelcontextprotocol&logoColor=FFFFFF&color=CC871F) ![api_rest](https://img.shields.io/badge/API%20REST-passing?style=plastic&logo=api&color=1A88D6) ![ok_http](https://img.shields.io/badge/OkHttp-passing?logo=aiohttp&color=%232C5BB4)
 
 
-![checkmarx](https://img.shields.io/badge/CheckMarx-passing?style=plastic&logo=checkmarx&color=%23D108BA)  ![dependency_check](https://img.shields.io/badge/DependencyCheck-passing?style=plastic&logo=dependencycheck&color=%23F78D0A) ![](https://img.shields.io/badge/MobSF-passing?style=plastic&logo=monster&color=%236D4C9F) ![fastlane](https://img.shields.io/badge/Fastlane-passing?style=plastic&logo=Fastlane&logoColor=FFFFFF&color=#00F200) 
+![checkmarx](https://img.shields.io/badge/CheckMarx-passing?style=plastic&logo=checkmarx&color=%23D108BA) ![dependency_check](https://img.shields.io/badge/DependencyCheck-passing?logo=dependencycheck&logoColor=%23ED1C24&color=%23F78D0A) ![](https://img.shields.io/badge/MobSF-passing?style=plastic&logo=monster&color=%236D4C9F) ![fastlane](https://img.shields.io/badge/Fastlane-passing?style=plastic&logo=Fastlane&logoColor=FFFFFF&color=#00F200) 
 
 ## 🔹 Experiencia
 
