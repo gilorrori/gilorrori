@@ -86,5 +86,7 @@ Ago 17 – Ene 18
 
 📫 daniel.sandoval.nicolas@hotmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/daniel-sandoval-dev/)
+
 🌐 [Projects](https://github.com/gilorrori)
+
 📲 [WhatsApp](https://wa.me/525611209596?text=Hola,%20)
